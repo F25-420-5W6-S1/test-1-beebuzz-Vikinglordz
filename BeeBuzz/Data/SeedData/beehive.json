@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Name": "Hive1",
+    "Location": "Field1",
+    "IsActive": true,
+    "DeactivationReason": null,
+    "UserId": 1
+  },
+  {
+    "Id": 2,
+    "Name": "Hive2",
+    "Location": "Field2",
+    "IsActive": false,
+    "DeactivationReason": "inactive",
+    "UserId": 1
+  },
+  {
+    "Id": 3,
+    "Name": "Hive3",
+    "Location": "Field3",
+    "IsActive": true,
+    "DeactivationReason": null,
+    "UserId": 2
+  }
+]

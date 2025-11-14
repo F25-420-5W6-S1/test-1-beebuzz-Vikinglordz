@@ -1,0 +1,12 @@
+[
+  {
+    "UserName": "admin@beebuzz.com",
+    "Email": "admin@beebuzz.com",
+    "OrganizationId": "00000000-0000-0000-0000-000000000001"
+  },
+  {
+    "UserName": "user1@honeybee.com",
+    "Email": "user1@honeybee.com",
+    "OrganizationId": "00000000-0000-0000-0000-000000000002"
+  }
+]
